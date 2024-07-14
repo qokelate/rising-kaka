@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<actions>
+	<action name="startup">
+		<movies>
+	  		<movie name="hello" width="212" height="212"></movie>
+	  	</movies>
+	</action>
+	
+	<action name="exit">
+		<movies>
+			<movie name="bye" width="128" height="128"></movie>
+		</movies>
+	</action>
+	
+	<action name="stand">
+		<movies>
+		  <movie name="stand" width="128" height="128"></movie>
+		  <movie name="gally" width="128" height="128"></movie>
+			<movie name="findv" width="128" height="128"></movie>			
+			<movie name="stafindv" width="128" height="128"></movie>
+			<movie name="smong" width="128" height="128"></movie>
+			<movie name="stofindv" width="128" height="128"></movie>
+			<movie name="stopdrag" width="128" height="128"></movie>		
+			<movie name="showup" width="300" height="300"></movie>
+		</movies>
+	</action>
+	
+	<action name="rbtnclk">
+		<movies>
+			<movie name="rbtnclk" width="128" height="128"></movie>
+		</movies>
+	</action>
+	
+	<action name="dblclk">
+		<movies>
+			<movie name="dblclk" width="128" height="128"></movie>
+			<movie name="vanish" width="128" height="128" />
+			<movie name="smog" width="128" height="128" />	
+		</movies>
+	</action>
+	
+	<action name="sequenceplay">
+		<movies>
+		</movies>
+	</action>
+	
+	<action name="randomplay">
+		<movies>
+		</movies>
+	</action>
+	
+	<action name="blink">
+		<movies>
+			<movie name="stand" width="128" height="128"></movie>
+			<movie name="Gally" width="128" height="128"></movie>
+		  <movie name="StarScan" width="128" height="128"></movie>
+			<movie name="Scanning" width="128" height="128"></movie>
+			<movie name="Scanning" width="128" height="128"></movie>
+			<movie name="Scanning" width="128" height="128"></movie>
+			<movie name="Scanning" width="128" height="128"></movie>
+			<movie name="StopScan" width="128" height="128"></movie>
+			<movie name="StopScan" width="128" height="128"></movie>
+			<movie name="stafindv" width="128" height="128"></movie>
+			<movie name="findv" width="128" height="128"></movie>			
+			<movie name="stofindv" width="128" height="128"></movie>
+			<movie name="dialog" width="128" height="128"></movie>
+			<movie name="stand" width="128" height="128"></movie>
+			<movie name="gally" width="128" height="128"></movie>
+			<movie name="smog" width="128" height="128"></movie>		
+			<movie name="StatDrag" width="128" height="128"></movie>
+			<movie name="Dragging" width="128" height="128"></movie>
+			<movie name="Dragging" width="128" height="128"></movie>
+			<movie name="StopDrag" width="128" height="128"></movie>
+			<movie name="stasleep" width="128" height="128"></movie>
+			<movie name="sleeping" width="128" height="128"></movie>
+			<movie name="stosleep" width="128" height="128"></movie>
+			<movie name="hands" width="300" height="300"></movie>
+			<movie name="fallback" width="300" height="300"></movie>
+			<movie name="hiding" width="300" height="300"></movie>
+			<movie name="hidden" width="300" height="300"></movie>
+			<movie name="showup" width="300" height="300"></movie>
+			<movie name="vanish" width="128" height="128" />
+			<movie name="smog" width="128" height="128" />	
+		</movies>
+	</action>
+	
+	<action name="look">
+		<movies>
+		</movies>
+	</action>
+	
+	<action name="randommove">
+		<movies>
+		</movies>
+	</action>
+	
+	<action name="disappear">
+		<movies>
+			<movie name="vanish" width="128" height="128" />
+		</movies>
+	</action>
+	<action name="stopgame">
+		<movies>
+      <movie name="smog" width="128" height="128" />
+		</movies>
+	</action>
+</actions>
